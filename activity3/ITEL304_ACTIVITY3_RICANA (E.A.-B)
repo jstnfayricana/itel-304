@@ -1,0 +1,11 @@
+<html>
+
+	<body>
+		<h4> Engaging Activity B. </h4>
+		<form action="/greet">
+			Username <input type='text' name='fname'><br>
+			Password <input type='password' name='char'><br>
+			<input type='submit' value='Log In'>
+		</form>
+	</body>
+	<html>
